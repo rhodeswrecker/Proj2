@@ -1,0 +1,36 @@
+{
+  "name": "sb-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "6.2.0",
+    "@fortawesome/free-regular-svg-icons": "6.2.1",
+    "@fortawesome/free-solid-svg-icons": "6.2.0",
+    "@fortawesome/vue-fontawesome": "3.0.2",
+    "@popperjs/core": "2.11.6",
+    "bootstrap": "5.2.2",
+    "bootstrap-icons": "1.10.2",
+    "fortawesome": "0.0.1-security",
+    "jquery": "^3.6.1",
+    "toastr": "2.1.4",
+    "usemodal-vue3": "0.3.7",
+    "vue": "3.2.26",
+    "vue-bs-modal": "0.7.9",
+    "vue-toasted": "1.1.28",
+    "vue-toastr": "3.0.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.0",
+    "@vue/cli-plugin-eslint": "^4.4.0",
+    "@vue/cli-service": "^4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
